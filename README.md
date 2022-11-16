@@ -1,4 +1,5 @@
-# my_bmi
+# MY BMI
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/81623956/202214191-f00455e2-5c6a-4186-9975-485a2b2a4025.gif)
 
 A new Flutter project.
 
